@@ -1,6 +1,11 @@
 {
     "icons": [
         {
+            "title": "Asahi Linux",
+            "hex": "E8A6B6",
+            "source": "https://github.com/AsahiLinux/artwork/tree/main/logos"
+        },
+        {
             "title": ".ENV",
             "hex": "ECD53F",
             "source": "https://github.com/motdotla/dotenv/tree/40e75440337d1de2345dc8326d6108331f583fd8",
